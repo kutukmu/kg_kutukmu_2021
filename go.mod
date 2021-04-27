@@ -1,3 +1,3 @@
-module github.com/kutukmu/assesment-solution
+module github.com/kutukmu/kg_kutukmu_2021
 
 go 1.16
